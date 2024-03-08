@@ -3,6 +3,10 @@ uuid = "bda4b8a3-53a0-48bb-bdcf-81a425c8a9fd"
 authors = ["Pablo Rodríguez Sánchez <pablo.rodriguez.sanchez@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+
 [compat]
 julia = "1"
 
